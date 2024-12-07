@@ -1,0 +1,1634 @@
+[
+  {
+    "name": "Africâner",
+    "cod": "af"
+  },
+  {
+    "name": "Albanês",
+    "cod": "sq"
+  },
+  {
+    "name": "Alemão",
+    "cod": "de"
+  },
+  {
+    "name": "Amárico",
+    "cod": "am"
+  },
+  {
+    "name": "Apinayé",
+    "cod": "apinaye"
+  },
+  {
+    "name": "Árabe",
+    "cod": "ar"
+  },
+  {
+    "name": "Armênio",
+    "cod": "hy"
+  },
+  {
+    "name": "Azerbaijano",
+    "cod": "az"
+  },
+  {
+    "name": "Basco",
+    "cod": "eu"
+  },
+  {
+    "name": "Bielorrusso",
+    "cod": "be"
+  },
+  {
+    "name": "Bengali",
+    "cod": "bn"
+  },
+  {
+    "name": "Bósnio",
+    "cod": "bs"
+  },
+  {
+    "name": "Búlgaro",
+    "cod": "bg"
+  },
+  {
+    "name": "Catalão",
+    "cod": "ca"
+  },
+  {
+    "name": "Cebuano",
+    "cod": "ceb"
+  },
+  {
+    "name": "Chinês (simplificado)",
+    "cod": "zh-cn"
+  },
+  {
+    "name": "Chinês (tradicional)",
+    "cod": "zh-tw"
+  },
+  {
+    "name": "Córsico",
+    "cod": "co"
+  },
+  {
+    "name": "Croata",
+    "cod": "hr"
+  },
+  {
+    "name": "Tcheco",
+    "cod": "cs"
+  },
+  {
+    "name": "Dinamarquês",
+    "cod": "da"
+  },
+  {
+    "name": "Holandês",
+    "cod": "nl"
+  },
+  {
+    "name": "Inglês",
+    "cod": "en"
+  },
+  {
+    "name": "Esperanto",
+    "cod": "eo"
+  },
+  {
+    "name": "Estoniano",
+    "cod": "et"
+  },
+  {
+    "name": "Finlandês",
+    "cod": "fi"
+  },
+  {
+    "name": "Francês",
+    "cod": "fr"
+  },
+  {
+    "name": "Frísio",
+    "cod": "fy"
+  },
+  {
+    "name": "Galego",
+    "cod": "gl"
+  },
+  {
+    "name": "Georgiano",
+    "cod": "ka"
+  },
+  {
+    "name": "Grego",
+    "cod": "el"
+  },
+  {
+    "name": "Guzerate",
+    "cod": "gu"
+  },
+  {
+    "name": "Crioulo haitiano",
+    "cod": "ht"
+  },
+  {
+    "name": "Hauçá",
+    "cod": "ha"
+  },
+  {
+    "name": "Havaiano",
+    "cod": "haw"
+  },
+  {
+    "name": "Hebraico",
+    "cod": "he"
+  },
+  {
+    "name": "Hindi",
+    "cod": "hi"
+  },
+  {
+    "name": "Hmong",
+    "cod": "hmn"
+  },
+  {
+    "name": "Húngaro",
+    "cod": "hu"
+  },
+  {
+    "name": "Islandês",
+    "cod": "is"
+  },
+  {
+    "name": "Igbo",
+    "cod": "ig"
+  },
+  {
+    "name": "Indonésio",
+    "cod": "id"
+  },
+  {
+    "name": "Irlandês",
+    "cod": "ga"
+  },
+  {
+    "name": "Italian",
+    "cod": "it"
+  },
+  {
+    "name": "Japonês",
+    "cod": "ja"
+  },
+  {
+    "name": "Javanês",
+    "cod": "jv"
+  },
+  {
+    "name": "Canará",
+    "cod": "kn"
+  },
+  {
+    "name": "Cazaque",
+    "cod": "kk"
+  },
+  {
+    "name": "Cmer",
+    "cod": "km"
+  },
+  {
+    "name": "Kinyarwanda",
+    "cod": "rw"
+  },
+  {
+    "name": "Coreano",
+    "cod": "ko"
+  },
+  {
+    "name": "Curdo",
+    "cod": "ku"
+  },
+  {
+    "name": "Quirguiz",
+    "cod": "ky"
+  },
+  {
+    "name": "Laosiano",
+    "cod": "lo"
+  },
+  {
+    "name": "Letão",
+    "cod": "lv"
+  },
+  {
+    "name": "Lituano",
+    "cod": "lt"
+  },
+  {
+    "name": "Luxemburguês",
+    "cod": "lb"
+  },
+  {
+    "name": "Macedônio",
+    "cod": "mk"
+  },
+  {
+    "name": "Malgaxe",
+    "cod": "mg"
+  },
+  {
+    "name": "Malaio",
+    "cod": "ms"
+  },
+  {
+    "name": "Malaiala",
+    "cod": "ml"
+  },
+  {
+    "name": "Maltês",
+    "cod": "mt"
+  },
+  {
+    "name": "Maori",
+    "cod": "mi"
+  },
+  {
+    "name": "Marata",
+    "cod": "mr"
+  },
+  {
+    "name": "Mongol",
+    "cod": "mn"
+  },
+  {
+    "name": "Myanmar (birmanês)",
+    "cod": "my"
+  },
+  {
+    "name": "Nepalês",
+    "cod": "ne"
+  },
+  {
+    "name": "Norueguês",
+    "cod": "no"
+  },
+  {
+    "name": "Nianja (Chichewa)",
+    "cod": "ny"
+  },
+  {
+    "name": "Oriá",
+    "cod": "or"
+  },
+  {
+    "name": "Pashto",
+    "cod": "ps"
+  },
+  {
+    "name": "Persa",
+    "cod": "fa"
+  },
+  {
+    "name": "Polonês",
+    "cod": "pl"
+  },
+  {
+    "name": "Português",
+    "cod": "pt"
+  },
+  {
+    "name": "Punjabi",
+    "cod": "pa"
+  },
+  {
+    "name": "Romeno",
+    "cod": "ro"
+  },
+  {
+    "name": "Russo",
+    "cod": "ru"
+  },
+  {
+    "name": "Samoano",
+    "cod": "sm"
+  },
+  {
+    "name": "Gaélico escocês",
+    "cod": "gd"
+  },
+  {
+    "name": "Sérvio",
+    "cod": "sr"
+  },
+  {
+    "name": "Sesoto",
+    "cod": "st"
+  },
+  {
+    "name": "Xona",
+    "cod": "sn"
+  },
+  {
+    "name": "Sindi",
+    "cod": "sd"
+  },
+  {
+    "name": "Sinhala (cingalês)",
+    "cod": "si"
+  },
+  {
+    "name": "Eslovaco",
+    "cod": "sk"
+  },
+  {
+    "name": "Esloveno",
+    "cod": "sl"
+  },
+  {
+    "name": "Somali",
+    "cod": "so"
+  },
+  {
+    "name": "Espanhol",
+    "cod": "es"
+  },
+  {
+    "name": "Sundanês",
+    "cod": "su"
+  },
+  {
+    "name": "Suaíli",
+    "cod": "sw"
+  },
+  {
+    "name": "Sueco",
+    "cod": "sv"
+  },
+  {
+    "name": "Tagalo (filipino)",
+    "cod": "tl"
+  },
+  {
+    "name": "Tajique",
+    "cod": "tg"
+  },
+  {
+    "name": "Tâmil",
+    "cod": "ta"
+  },
+  {
+    "name": "Tártaro",
+    "cod": "tt"
+  },
+  {
+    "name": "Telugu",
+    "cod": "te"
+  },
+  {
+    "name": "Tailandês",
+    "cod": "th"
+  },
+  {
+    "name": "Turco",
+    "cod": "tr"
+  },
+  {
+    "name": "Turcomano",
+    "cod": "tk"
+  },
+  {
+    "name": "Ucraniano",
+    "cod": "uk"
+  },
+  {
+    "name": "Urdu",
+    "cod": "ur"
+  },
+  {
+    "name": "Uyghur",
+    "cod": "ug"
+  },
+  {
+    "name": "Usbeque",
+    "cod": "uz"
+  },
+  {
+    "name": "Vietnamita",
+    "cod": "vi"
+  },
+  {
+    "name": "Galês",
+    "cod": "cy"
+  },
+  {
+    "name": "Xosa",
+    "cod": "xh"
+  },
+  {
+    "name": "Ídiche",
+    "cod": "yi"
+  },
+  {
+    "name": "Iorubá",
+    "cod": "yo"
+  },
+  {
+    "name": "Zulu",
+    "cod": "zu"
+  },
+  {
+    "name": "Umutína",
+    "cod": "bororo"
+  },
+  {
+    "name": "Boróro",
+    "cod": "bororo"
+  },
+  {
+    "name": "Guató",
+    "cod": "guato"
+  },
+  {
+    "name": "Kanela",
+    "cod": "timbira"
+  },
+  {
+    "name": "Kanela Apaniekra",
+    "cod": "timbira"
+  },
+  {
+    "name": "Kanela Rankocamekra",
+    "cod": "timbira"
+  },
+  {
+    "name": "Gavião Krikatêjê",
+    "cod": "timbira"
+  },
+  {
+    "name": "Gavião Parkatêjê",
+    "cod": "timbira"
+  },
+  {
+    "name": "Gavião Pukobiê",
+    "cod": "timbira"
+  },
+  {
+    "name": "Krahô",
+    "cod": "timbira"
+  },
+  {
+    "name": "Krahô-Kanela",
+    "cod": "timbira"
+  },
+  {
+    "name": "Krenyê",
+    "cod": "timbira"
+  },
+  {
+    "name": "Krikatí",
+    "cod": "timbira"
+  },
+  {
+    "name": "Kokuiregatêjê",
+    "cod": "timbira"
+  },
+  {
+    "name": "Timbira",
+    "cod": "timbira"
+  },
+  {
+    "name": "Kaingáng",
+    "cod": "kaingang"
+  },
+  {
+    "name": "Mebêngôkre",
+    "cod": "kayapo"
+  },
+  {
+    "name": "Krenakarore",
+    "cod": "panara"
+  },
+  {
+    "name": "Kisêdjê",
+    "cod": "kisedje-tapayuna"
+  },
+  {
+    "name": "Tapayúna",
+    "cod": "kisedje-tapayuna"
+  },
+  {
+    "name": "Xacriabá",
+    "cod": "xacriaba"
+  },
+  {
+    "name": "Xavánte",
+    "cod": "xavante"
+  },
+  {
+    "name": "Xerénte",
+    "cod": "xerente"
+  },
+  {
+    "name": "Xokléng",
+    "cod": "xokleng"
+  },
+  {
+    "name": "Karajá",
+    "cod": "karaja"
+  },
+  {
+    "name": "Javaé",
+    "cod": "karaja"
+  },
+  {
+    "name": "Xambioá",
+    "cod": "karaja"
+  },
+  {
+    "name": "Krenák",
+    "cod": "krenak"
+  },
+  {
+    "name": "Maxakali",
+    "cod": "maxakali"
+  },
+  {
+    "name": "Pataxó",
+    "cod": "pataxo"
+  },
+  {
+    "name": "Pataxó Há-Há-Há",
+    "cod": "pataxo"
+  },
+  {
+    "name": "Ofayé",
+    "cod": "ofaye"
+  },
+  {
+    "name": "Canoeiros",
+    "cod": "rikbaktsa"
+  },
+  {
+    "name": "Fulni-ô",
+    "cod": "yate"
+  },
+  {
+    "name": "Karitiána",
+    "cod": "karatiana"
+  },
+  {
+    "name": "Awetí",
+    "cod": "aweti"
+  },
+  {
+    "name": "Jurúna",
+    "cod": "yudja"
+  },
+  {
+    "name": "Xipáya",
+    "cod": "xipaya"
+  },
+  {
+    "name": "Mawé",
+    "cod": "mawe"
+  },
+  {
+    "name": "Aruá",
+    "cod": "cinta-larga"
+  },
+  {
+    "name": "Arara do Aripuanã",
+    "cod": "cinta-larga"
+  },
+  {
+    "name": "Cinta Larga",
+    "cod": "cinta-larga"
+  },
+  {
+    "name": "Gavião de Rondônia",
+    "cod": "cinta-larga"
+  },
+  {
+    "name": "Zoró",
+    "cod": "cinta-larga"
+  },
+  {
+    "name": "Salamãy",
+    "cod": "salamay"
+  },
+  {
+    "name": "Suruí de Rondônia",
+    "cod": "paiter"
+  },
+  {
+    "name": "Mondé",
+    "cod": "paiter"
+  },
+  {
+    "name": "Tupí-Mondé",
+    "cod": "paiter"
+  },
+  {
+    "name": "Mundurukú",
+    "cod": "munduruku"
+  },
+  {
+    "name": "Kuruáya",
+    "cod": "kuruaya"
+  },
+  {
+    "name": "Puruborá",
+    "cod": "purubora"
+  },
+  {
+    "name": "Arara de Rondônia",
+    "cod": "karo"
+  },
+  {
+    "name": "Ramarama",
+    "cod": "karo"
+  },
+  {
+    "name": "Urucú",
+    "cod": "karo"
+  },
+  {
+    "name": "Ajuru",
+    "cod": "ajuru"
+  },
+  {
+    "name": "Akunts",
+    "cod": "akuntsu"
+  },
+  {
+    "name": "Makuráp",
+    "cod": "makurap"
+  },
+  {
+    "name": "Sakurabiat",
+    "cod": "sakurabiat"
+  },
+  {
+    "name": "Amanayé",
+    "cod": "amanaye"
+  },
+  {
+    "name": "Anambé",
+    "cod": "anambe"
+  },
+  {
+    "name": "Apiaká",
+    "cod": "apiaka"
+  },
+  {
+    "name": "Araweté",
+    "cod": "arawete"
+  },
+  {
+    "name": "Asurini do Tocantins",
+    "cod": "asurini"
+  },
+  {
+    "name": "Parakanã",
+    "cod": "asurini"
+  },
+  {
+    "name": "Suruí do Pará",
+    "cod": "asurini"
+  },
+  {
+    "name": "Asurini do Xingu",
+    "cod": "asurini-xingu"
+  },
+  {
+    "name": "Ava-Canoeiro",
+    "cod": "ava-canoeiro"
+  },
+  {
+    "name": "Guajá",
+    "cod": "guaja"
+  },
+  {
+    "name": "Guaraní",
+    "cod": "guarani"
+  },
+  {
+    "name": "Guarani Kaiowá",
+    "cod": "guarani"
+  },
+  {
+    "name": "Guarani Mbya",
+    "cod": "guarani"
+  },
+  {
+    "name": "Guarani Nhandeva",
+    "cod": "guarani"
+  },
+  {
+    "name": "Ka’apor",
+    "cod": "kaapor"
+  },
+  {
+    "name": "Lingua de Sinais Ka’apor",
+    "cod": "kaapor"
+  },
+  {
+    "name": "Kamayrurá",
+    "cod": "kamayrura"
+  },
+  {
+    "name": "Amondáwa",
+    "cod": "kawahib"
+  },
+  {
+    "name": "Diahói",
+    "cod": "kawahib"
+  },
+  {
+    "name": "Juma",
+    "cod": "kawahib"
+  },
+  {
+    "name": "Karipuna",
+    "cod": "kawahib"
+  },
+  {
+    "name": "Kawahíb",
+    "cod": "kawahib"
+  },
+  {
+    "name": "Parintintim",
+    "cod": "kawahib"
+  },
+  {
+    "name": "Tenharim",
+    "cod": "kawahib"
+  },
+  {
+    "name": "Uru-Eu-Wau-Wau",
+    "cod": "kawahib"
+  },
+  {
+    "name": "Kaiabi",
+    "cod": "kaiabi"
+  },
+  {
+    "name": "Kokama",
+    "cod": "kokama-kambeba"
+  },
+  {
+    "name": "Kambéba",
+    "cod": "kokama-kambeba"
+  },
+  {
+    "name": "Lingua Geral Amazônica",
+    "cod": "lingua-geral-amazonica"
+  },
+  {
+    "name": "Tapirapé",
+    "cod": "tapirape"
+  },
+  {
+    "name": "Guajajára",
+    "cod": "tenetehara"
+  },
+  {
+    "name": "Tembé",
+    "cod": "tenetehara"
+  },
+  {
+    "name": "Turiwára",
+    "cod": "turiwara"
+  },
+  {
+    "name": "Waiãpy",
+    "cod": "waiapy"
+  },
+  {
+    "name": "Xetá",
+    "cod": "xeta"
+  },
+  {
+    "name": "Zo’é",
+    "cod": "zoe"
+  },
+  {
+    "name": "Apurinã",
+    "cod": "apurina"
+  },
+  {
+    "name": "Ashaninka",
+    "cod": "ashaninka"
+  },
+  {
+    "name": "Baníwa",
+    "cod": "baniwa-kuripako"
+  },
+  {
+    "name": "Kuripáko",
+    "cod": "baniwa-kuripako"
+  },
+  {
+    "name": "Baré",
+    "cod": "bare"
+  },
+  {
+    "name": "Enawenê-Nawê",
+    "cod": "enawene-nawe"
+  },
+  {
+    "name": "Kinikinau",
+    "cod": "kinikinau"
+  },
+  {
+    "name": "Machinéri",
+    "cod": "machineri"
+  },
+  {
+    "name": "Mawayána",
+    "cod": "mawayana"
+  },
+  {
+    "name": "Mehináku",
+    "cod": "mehinaku"
+  },
+  {
+    "name": "Palikúr",
+    "cod": "palikur"
+  },
+  {
+    "name": "Paresí",
+    "cod": "paresi"
+  },
+  {
+    "name": "Tariána",
+    "cod": "tariana"
+  },
+  {
+    "name": "Teréna",
+    "cod": "terena"
+  },
+  {
+    "name": "Wapixána",
+    "cod": "wapixana"
+  },
+  {
+    "name": "Warekána",
+    "cod": "warekana"
+  },
+  {
+    "name": "Wauja",
+    "cod": "wauja"
+  },
+  {
+    "name": "Yawalapití",
+    "cod": "yawalapiti"
+  },
+  {
+    "name": "Apalaí",
+    "cod": "apalai"
+  },
+  {
+    "name": "Arara do Pará",
+    "cod": "arara-do-para"
+  },
+  {
+    "name": "Bakairí",
+    "cod": "bakairi"
+  },
+  {
+    "name": "Galibí do Oiapoque",
+    "cod": "galibi-do-oiapoque"
+  },
+  {
+    "name": "Hixkaryána",
+    "cod": "hixkaryana"
+  },
+  {
+    "name": "Ikpeng",
+    "cod": "ikpeng"
+  },
+  {
+    "name": "Ingarikó",
+    "cod": "ingariko"
+  },
+  {
+    "name": "Kalapálo",
+    "cod": "kalapalo"
+  },
+  {
+    "name": "Kuikúro",
+    "cod": "kalapalo"
+  },
+  {
+    "name": "Matipú",
+    "cod": "kalapalo"
+  },
+  {
+    "name": "Nahukwá",
+    "cod": "kalapalo"
+  },
+  {
+    "name": "Naravute",
+    "cod": "kalapalo"
+  },
+  {
+    "name": "Kaxuyána",
+    "cod": "kaxuyana"
+  },
+  {
+    "name": "Xikuyána",
+    "cod": "kaxuyana"
+  },
+  {
+    "name": "Makuxí",
+    "cod": "makuxi"
+  },
+  {
+    "name": "Kapon Patamóna",
+    "cod": "patamona"
+  },
+  {
+    "name": "Taulipáng",
+    "cod": "taulipang"
+  },
+  {
+    "name": "Tiriyó",
+    "cod": "tiriyo"
+  },
+  {
+    "name": "Wái Wái",
+    "cod": "wai-wai"
+  },
+  {
+    "name": "Waimirí-Atroarí",
+    "cod": "waimiri-atroari"
+  },
+  {
+    "name": "Wayána",
+    "cod": "wayana"
+  },
+  {
+    "name": "Yekuána",
+    "cod": "yekuana"
+  },
+  {
+    "name": "Arara do Acre",
+    "cod": "arara-do-acre"
+  },
+  {
+    "name": "Katukina do Acre",
+    "cod": "katukina-do-acre"
+  },
+  {
+    "name": "Kaxararí",
+    "cod": "kaxarari"
+  },
+  {
+    "name": "Kaxinawá",
+    "cod": "kaxinawa"
+  },
+  {
+    "name": "Korúbo",
+    "cod": "korubo"
+  },
+  {
+    "name": "Kulina Páno",
+    "cod": "kulina-pano"
+  },
+  {
+    "name": "Marúbo",
+    "cod": "marubo"
+  },
+  {
+    "name": "Matís",
+    "cod": "matis"
+  },
+  {
+    "name": "Matsés",
+    "cod": "matses"
+  },
+  {
+    "name": "Maya",
+    "cod": "maya"
+  },
+  {
+    "name": "Nukiní",
+    "cod": "nukini"
+  },
+  {
+    "name": "Poyanáwa",
+    "cod": "poyanawa"
+  },
+  {
+    "name": "Shanenáwa",
+    "cod": "shanenawa"
+  },
+  {
+    "name": "Yamináwa",
+    "cod": "yaminawa"
+  },
+  {
+    "name": "Yawanawá",
+    "cod": "yawanawa"
+  },
+  {
+    "name": "Arapáso",
+    "cod": "arapaso"
+  },
+  {
+    "name": "Barasána",
+    "cod": "barasana"
+  },
+  {
+    "name": "Desána",
+    "cod": "desana"
+  },
+  {
+    "name": "Karapanã",
+    "cod": "karapana"
+  },
+  {
+    "name": "Kotiria",
+    "cod": "kotiria"
+  },
+  {
+    "name": "Kubeo",
+    "cod": "kubeo"
+  },
+  {
+    "name": "Makúna",
+    "cod": "makuna"
+  },
+  {
+    "name": "Siriáno",
+    "cod": "siriano"
+  },
+  {
+    "name": "Tukáno",
+    "cod": "tukano"
+  },
+  {
+    "name": "Tuyúca",
+    "cod": "tuyuca"
+  },
+  {
+    "name": "Yurutí",
+    "cod": "yuruti"
+  },
+  {
+    "name": "Piratapúya",
+    "cod": "waikana"
+  },
+  {
+    "name": "Arawá",
+    "cod": "arawa"
+  },
+  {
+    "name": "Banawá",
+    "cod": "banawa-yafi"
+  },
+  {
+    "name": "Dení",
+    "cod": "deni"
+  },
+  {
+    "name": "Himarimã",
+    "cod": "himarima"
+  },
+  {
+    "name": "Jamamadí-Kanamanti",
+    "cod": "jamamadi-kanamanti"
+  },
+  {
+    "name": "Jarawára",
+    "cod": "jarawara"
+  },
+  {
+    "name": "Kulina Madijá",
+    "cod": "kulina-madija"
+  },
+  {
+    "name": "Paumarí",
+    "cod": "paumari"
+  },
+  {
+    "name": "Zuruwahá",
+    "cod": "zuruwaha"
+  },
+  {
+    "name": "Kanamarí",
+    "cod": "katukina---kanamari"
+  },
+  {
+    "name": "Katukína",
+    "cod": "katukina---kanamari"
+  },
+  {
+    "name": "Tsohom Djapa",
+    "cod": "katukina---kanamari"
+  },
+  {
+    "name": "Katawixí",
+    "cod": "katawixi"
+  },
+  {
+    "name": "Dâw",
+    "cod": "daw"
+  },
+  {
+    "name": "Hupda",
+    "cod": "hupda"
+  },
+  {
+    "name": "Nadëb",
+    "cod": "nadeb"
+  },
+  {
+    "name": "Yuhúp",
+    "cod": "yuhup"
+  },
+  {
+    "name": "Manduka",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Halotesu",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Kithaulu",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Wakalitesu",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Sawentesu",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Alaketesu",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Alantesu",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Hahaintesu",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Sarare",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Waikisu",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Wasusu",
+    "cod": "nambikwara-do-sul"
+  },
+  {
+    "name": "Lakondê",
+    "cod": "nambikwara-do-norte"
+  },
+  {
+    "name": "Latundê",
+    "cod": "nambikwara-do-norte"
+  },
+  {
+    "name": "Negarotê",
+    "cod": "nambikwara-do-norte"
+  },
+  {
+    "name": "Mamaindê",
+    "cod": "nambikwara-do-norte"
+  },
+  {
+    "name": "Tawandê",
+    "cod": "nambikwara-do-norte"
+  },
+  {
+    "name": "Sabanê",
+    "cod": "nambikwara-do-norte"
+  },
+  {
+    "name": "Kujubím",
+    "cod": "kujubim"
+  },
+  {
+    "name": "Migueléno",
+    "cod": "migueleno"
+  },
+  {
+    "name": "Oro Win",
+    "cod": "oro-win"
+  },
+  {
+    "name": "Torá",
+    "cod": "tora"
+  },
+  {
+    "name": "Pakaa Nova",
+    "cod": "wari"
+  },
+  {
+    "name": "Ninám",
+    "cod": "ninam"
+  },
+  {
+    "name": "Sanumá",
+    "cod": "sanuma"
+  },
+  {
+    "name": "Bóra",
+    "cod": "bora"
+  },
+  {
+    "name": "Miránha",
+    "cod": "miranha"
+  },
+  {
+    "name": "Kadiwéu",
+    "cod": "kadiweu"
+  },
+  {
+    "name": "Guaikurú",
+    "cod": "kadiweu"
+  },
+  {
+    "name": "Múra",
+    "cod": "mura"
+  },
+  {
+    "name": "Pirahã",
+    "cod": "piraha"
+  },
+  {
+    "name": "Chamakóko",
+    "cod": "chamakoko"
+  },
+  {
+    "name": "Chiquitáno",
+    "cod": "chiquitano"
+  },
+  {
+    "name": "Arikapú",
+    "cod": "arikapu"
+  },
+  {
+    "name": "Djeoromitxí - Jabotí",
+    "cod": "djeoromitxi"
+  },
+  {
+    "name": "Witóto",
+    "cod": "witoto"
+  },
+  {
+    "name": "Aikaná",
+    "cod": "aikana"
+  },
+  {
+    "name": "Irántxe",
+    "cod": "irantxe---mynky"
+  },
+  {
+    "name": "Mynky",
+    "cod": "irantxe---mynky"
+  },
+  {
+    "name": "Kwazá",
+    "cod": "kwaza"
+  },
+  {
+    "name": "Kanoé",
+    "cod": "kanoe"
+  },
+  {
+    "name": "Tikúna",
+    "cod": "tikuna"
+  },
+  {
+    "name": "Trumái",
+    "cod": "trumai"
+  },
+  {
+    "name": "Galibí Marwórno",
+    "cod": "galibi-marworno"
+  },
+  {
+    "name": "Karipúna do Amapá",
+    "cod": "karipuna-do-amapa"
+  },
+  {
+    "name": "Aconã",
+    "cod": "acona"
+  },
+  {
+    "name": "Aimore",
+    "cod": "aimore"
+  },
+  {
+    "name": "Anacé",
+    "cod": "anace"
+  },
+  {
+    "name": "Apolima - Arara",
+    "cod": "apolima---arara"
+  },
+  {
+    "name": "Aranã",
+    "cod": "arana"
+  },
+  {
+    "name": "Arapiun",
+    "cod": "arapiun"
+  },
+  {
+    "name": "Arikén",
+    "cod": "ariken"
+  },
+  {
+    "name": "Arikosé",
+    "cod": "arikose"
+  },
+  {
+    "name": "Atikum",
+    "cod": "atikum"
+  },
+  {
+    "name": "Baenã",
+    "cod": "baena"
+  },
+  {
+    "name": "Borari",
+    "cod": "borari"
+  },
+  {
+    "name": "Botocudo",
+    "cod": "botocudo"
+  },
+  {
+    "name": "Catokin",
+    "cod": "catokin"
+  },
+  {
+    "name": "Charruá",
+    "cod": "charrua"
+  },
+  {
+    "name": "Koiupanká",
+    "cod": "koiupanka"
+  },
+  {
+    "name": "Issé",
+    "cod": "isse"
+  },
+  {
+    "name": "Jaricuna",
+    "cod": "jaricuna"
+  },
+  {
+    "name": "Jeripancó",
+    "cod": "jeripanco"
+  },
+  {
+    "name": "Kaeté",
+    "cod": "kaete"
+  },
+  {
+    "name": "Kahyana",
+    "cod": "kahyana"
+  },
+  {
+    "name": "Kaimbé",
+    "cod": "kaimbe"
+  },
+  {
+    "name": "Kalabaça",
+    "cod": "kalabaca"
+  },
+  {
+    "name": "Kalankó",
+    "cod": "kalanko"
+  },
+  {
+    "name": "Kamba",
+    "cod": "kamba"
+  },
+  {
+    "name": "Kambiwá",
+    "cod": "kambiwa"
+  },
+  {
+    "name": "Kambiwá-Pipipã",
+    "cod": "kambiwa-pipipa"
+  },
+  {
+    "name": "Kanindé",
+    "cod": "kaninde"
+  },
+  {
+    "name": "Kantaruré",
+    "cod": "kantarure"
+  },
+  {
+    "name": "Kapinawá",
+    "cod": "kapinawa"
+  },
+  {
+    "name": "Karapotó",
+    "cod": "karapoto"
+  },
+  {
+    "name": "Karijó",
+    "cod": "karijo"
+  },
+  {
+    "name": "Kariri",
+    "cod": "kariri"
+  },
+  {
+    "name": "Kariri - Xocó",
+    "cod": "kariri---xoco"
+  },
+  {
+    "name": "Kaxixó",
+    "cod": "kaxixo"
+  },
+  {
+    "name": "Kayuisiana",
+    "cod": "kayuisiana"
+  },
+  {
+    "name": "Kiriri",
+    "cod": "kiriri"
+  },
+  {
+    "name": "Kontanawá",
+    "cod": "kontanawa"
+  },
+  {
+    "name": "Laiana",
+    "cod": "laiana"
+  },
+  {
+    "name": "Manao",
+    "cod": "manao"
+  },
+  {
+    "name": "Maragua",
+    "cod": "maragua"
+  },
+  {
+    "name": "Marimã",
+    "cod": "marima"
+  },
+  {
+    "name": "Maytapu",
+    "cod": "maytapu"
+  },
+  {
+    "name": "Mucurim",
+    "cod": "mucurim"
+  },
+  {
+    "name": "Nawa",
+    "cod": "nawa"
+  },
+  {
+    "name": "Paiaku",
+    "cod": "paiaku"
+  },
+  {
+    "name": "Pankará",
+    "cod": "pankara"
+  },
+  {
+    "name": "Pankararé",
+    "cod": "pankarare"
+  },
+  {
+    "name": "Pankararú",
+    "cod": "pankararu"
+  },
+  {
+    "name": "Pankararú - Kalankó",
+    "cod": "pankararu---kalanko"
+  },
+  {
+    "name": "Pankararú - Karuazu",
+    "cod": "pankararu---karuazu"
+  },
+  {
+    "name": "Pankaru",
+    "cod": "pankaru"
+  },
+  {
+    "name": "Paumelenho",
+    "cod": "paumelenho"
+  },
+  {
+    "name": "Piri-Piri",
+    "cod": "piri-piri"
+  },
+  {
+    "name": "Pitaguari",
+    "cod": "pitaguari"
+  },
+  {
+    "name": "Potiguara",
+    "cod": "potiguara"
+  },
+  {
+    "name": "Puri",
+    "cod": "puri"
+  },
+  {
+    "name": "Sapará",
+    "cod": "sapara"
+  },
+  {
+    "name": "Tabajara",
+    "cod": "tabajara"
+  },
+  {
+    "name": "Tapajós",
+    "cod": "tapajos"
+  },
+  {
+    "name": "Tapeba",
+    "cod": "tapeba"
+  },
+  {
+    "name": "Tapiuns",
+    "cod": "tapiuns"
+  },
+  {
+    "name": "Tapuia",
+    "cod": "tapuia"
+  },
+  {
+    "name": "Tingui-Botó",
+    "cod": "tingui-boto"
+  },
+  {
+    "name": "Tremembé",
+    "cod": "tremembe"
+  },
+  {
+    "name": "Truká",
+    "cod": "truka"
+  },
+  {
+    "name": "Tumbalalá",
+    "cod": "tumbalala"
+  },
+  {
+    "name": "Tupaiu",
+    "cod": "tupaiu"
+  },
+  {
+    "name": "Tupinambá",
+    "cod": "tupinamba"
+  },
+  {
+    "name": "Tupinambaraná",
+    "cod": "tupinambarana"
+  },
+  {
+    "name": "Tupiniquim",
+    "cod": "tupiniquim"
+  },
+  {
+    "name": "Tuxá",
+    "cod": "tuxa"
+  },
+  {
+    "name": "Wassú",
+    "cod": "wassu"
+  },
+  {
+    "name": "Warao",
+    "cod": "warao"
+  },
+  {
+    "name": "Xocó",
+    "cod": "xoco"
+  },
+  {
+    "name": "Xucuru",
+    "cod": "xucuru"
+  },
+  {
+    "name": "Xucuru - Kariri",
+    "cod": "xucuru---kariri"
+  },
+  {
+    "name": "Libras",
+    "cod": "libras"
+  }
+]
